@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9caAf7E8268512aD8aA8d89bCb0DC84E8Ec22710",
+  "BLOCK_EXPLORER": "https://bscscan.com/address/0x9caAf7E8268512aD8aA8d89bCb0DC84E8Ec22710",
+  "NETWORK": {
+    "NAME": "BNB Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFK_NAME": "Punk Knights",
+  "SYMBOL": "KNIGHT",
+  "MAX_KNIGHTS": 1125,
+  "WEI_COST": 500000000000000000,
+  "NFK_PRICE": 0.5,
+  "GAS_LIMIT": 200000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/punkknights",
+  "SHOW_BACKGROUND": true
+}
